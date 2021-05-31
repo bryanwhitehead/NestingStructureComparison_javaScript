@@ -1,3 +1,4 @@
+// codewars challenge here:  https://www.codewars.com/kata/520446778469526ec0000001/train/javascript
 Array.prototype.sameStructureAs = function (other) {
   let first = JSON.stringify(this);
   let second = JSON.stringify(other);
